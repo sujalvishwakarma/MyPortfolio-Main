@@ -236,13 +236,13 @@ nav{
 }
 .image{
     margin: auto 0;
-    width: 380px;
-    height: 380px;
+    width: 150px;
+    height: 150px;
     animation: imgFloat 7s ease-in-out infinite;
 }
 .image img{
-    width: 380px;
-    height: 380px;
+    width: 150px;
+    height: 150px;
     object-fit: contain;
 }
 @keyframes imgFloat {
