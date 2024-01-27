@@ -236,13 +236,13 @@ nav{
 }
 .image{
     margin: auto 0;
-    width: 150px;
-    height: 150px;
+    width: 380px;
+    height: 380px;
     animation: imgFloat 7s ease-in-out infinite;
 }
 .image img{
-    width: 150px;
-    height: 150px;
+    width: 380px;
+    height: 380px;
     object-fit: contain;
 }
 @keyframes imgFloat {
@@ -593,8 +593,8 @@ footer{
         margin-top: 65px;
     }
     .image, .image img{
-        width: 500px;
-        height: 500px;
+        width: 150px;
+        height: 150px;
     }
     .row{
         display: flex;
